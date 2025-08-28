@@ -308,10 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for various libraries
 
 ## 📧 Contact
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/multi-agent-chatbot/issues)
-- **Discussions**: [Join the conversation](https://github.com/yourusername/multi-agent-chatbot/discussions)
-- **Email**: your.email@example.com
+- **Email**: saimoguloju2@gmail.com
 
 ## 🗺️ Roadmap
 
@@ -335,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by developers for developers
+  Made with ❤️ by Moguloju Sai
 </p>
 
 <p align="center">
