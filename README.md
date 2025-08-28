@@ -325,9 +325,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/multi-agent-chatbot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/multi-agent-chatbot?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/multi-agent-chatbot?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Saimoguloju/Multi-Agent-Chatbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Saimoguloju/Multi-Agent-Chatbot?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Saimoguloju/Multi-Agent-Chatbot?style=social)
 
 ---
 
@@ -336,5 +336,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/multi-agent-chatbot">⭐ Star this repository if you find it helpful!</a>
+  <a href="https://github.com/Saimoguloju/Multi-Agent-Chatbot.git">⭐ Star this repository if you find it helpful!</a>
 </p>
