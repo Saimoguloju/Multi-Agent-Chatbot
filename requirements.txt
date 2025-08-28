@@ -1,0 +1,17 @@
+google-generativeai
+streamlit
+python-dotenv
+tavily-python
+Pillow
+aiofiles
+beautifulsoup4
+requests
+pydantic
+asyncio
+gtts
+pydub
+PyPDF2
+python-docx
+pandas
+openpyxl
+nest-asyncio
