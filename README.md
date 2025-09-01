@@ -120,7 +120,7 @@ multi-agent-chatbot/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/multi-agent-chatbot.git
+git clone https://github.com/Saimoguloju/Multi-Agent-Chatbot.git
 cd multi-agent-chatbot
 ```
 
